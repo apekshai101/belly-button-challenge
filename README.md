@@ -8,8 +8,7 @@ Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly 
 
 
 ## Before you begin:
-1.     A new repository, named belly-button-challenge was created. The new repository was cloned.
-2.    The changes were pushed to GitHub.
+A new repository, named belly-button-challenge was created. The new repository was cloned.The changes were pushed to GitHub.
   
 ##Instructions:
 1.    D3 library is used to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
