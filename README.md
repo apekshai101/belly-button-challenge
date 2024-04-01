@@ -26,7 +26,7 @@ A new repository, named belly-button-challenge was created. The new repository w
 •    otu_labels is used for the text values.
 4.    The sample metadata is displayed, i.e., an individual's demographic information.
 5.    Each key-value pair is displayed from the metadata JSON object on the page.
-6.    All the plots are updatedwhen a new sample is selected. 
+6.    All the plots are updated when a new sample is selected. 
 7.    An  app is deployed to a free static page hosting service, such as GitHub Pages. Following is the GitHub Pages link:  https://apekshai101.github.io/belly-button-challenge/ 
 
 
